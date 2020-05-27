@@ -8,6 +8,7 @@
 
 package main
 
+import "fmt"
 func main() {
 	// Uncomment the line of code below; then save the file.
 	//
